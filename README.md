@@ -8,8 +8,6 @@ This project contains the Python implementation of the EMS-TIE phase retrieval m
 In the `data/` folder, you will find the data used for simulations and experiments. 
 In the `notebook/` folder, you will find the notebooks of simulations and experiments. 
 
-![MS-TIE](./data/readme/img.png)
-
 
 ---
 ## Paper
